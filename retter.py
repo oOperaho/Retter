@@ -29,4 +29,4 @@ async def on_message(ctx):
     await retter.process_commands(ctx)
 
 keep_alive()
-retter.run('OTM5MTg4NTUzNDIwODAwMDYz.Yf1NgA.uHbwpsUrKhAXpG9jzcT6n3SkqNw')
+retter.run('')
